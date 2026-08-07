@@ -1,6 +1,6 @@
 [submodule ".registry"]
 	path = .registry
-	url = https://github.com/r-universe-org/cran-to-git
+	url = https://github.com/olatunjijohnson/olatunjijohnson.r-universe.dev
 	branch = HEAD
 [submodule "MBGapp"]
 	path = MBGapp
@@ -8,3 +8,6 @@
 [submodule "SDALGCP2"]
 	path = SDALGCP2
 	url = https://github.com/olatunjijohnson/sdalgcp2
+[submodule "lsda"]
+	path = lsda
+	url = https://github.com/olatunjijohnson/lsda
