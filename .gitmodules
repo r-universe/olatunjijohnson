@@ -11,7 +11,7 @@
 [submodule "SPmodels"]
 	path = SPmodels
 	url = https://github.com/olatunjijohnson/SPmodels
-	branch = *release
+	branch = v0.1.0
 [submodule "lsda"]
 	path = lsda
 	url = https://github.com/olatunjijohnson/lsda
