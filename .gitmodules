@@ -8,6 +8,10 @@
 [submodule "SDALGCP2"]
 	path = SDALGCP2
 	url = https://github.com/olatunjijohnson/sdalgcp2
+[submodule "SPmodels"]
+	path = SPmodels
+	url = https://github.com/olatunjijohnson/SPmodels
+	branch = *release
 [submodule "lsda"]
 	path = lsda
 	url = https://github.com/olatunjijohnson/lsda
